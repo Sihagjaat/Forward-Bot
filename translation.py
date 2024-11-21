@@ -12,7 +12,7 @@ class Translation(object):
 
   DONATE_TXT = """<b><i>If you liked me ❤️. consider make a donation to support my developer 👦
 
-UPI ID - </i></b><code>RahulReviews@UPI</code>"""
+UPI ID - </i></b><code>Sihagbots@apl</code>"""
 
   HELP_TXT = """<b><u>🔆 ʜᴇʟᴘ</b></u>
 
@@ -55,8 +55,8 @@ UPI ID - </i></b><code>RahulReviews@UPI</code>"""
 ╔════❰ ғᴏʀᴡᴀʀᴅ ʙᴏᴛ ❱═❍⊱❁
 ║╭━━━━━━━━━━━━━━━➣
 ║┣⪼📃ʙᴏᴛ : ғᴏʀᴡᴀʀᴅ ʙᴏᴛ
-║┣⪼👦ᴄʀᴇᴀᴛᴏʀ : ʀᴀʜᴜʟ
-║┣⪼📡ʜᴏsᴛᴇᴅ ᴏɴ : ʜᴇʀᴏᴋᴜ
+║┣⪼👦ᴄʀᴇᴀᴛᴏʀ : SihagBots 
+║┣⪼📡ʜᴏsᴛᴇᴅ ᴏɴ : Koyeb 
 ║┣⪼🗣️ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ3
 ║┣⪼📚ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ
 ║┣⪼🗒️ᴠᴇʀsɪᴏɴ : 1.0.6
@@ -83,9 +83,9 @@ UPI ID - </i></b><code>RahulReviews@UPI</code>"""
   SERVER_TXT = """<b>
 ╔════❰ sᴇʀᴠᴇʀ sᴛᴀᴛs  ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣
-║┣⪼ ᴛᴏᴛᴀʟ ᴅɪsᴋ sᴘᴀᴄᴇ: <code>38 GB</code>
-║┣⪼ ᴜsᴇᴅ: <code>1.54 GB</code>
-║┣⪼ ꜰʀᴇᴇ: <code>36.46 GB</code>
+║┣⪼ ᴛᴏᴛᴀʟ ᴅɪsᴋ sᴘᴀᴄᴇ: <code>100 GB</code>
+║┣⪼ ᴜsᴇᴅ: <code>19.60 GB</code>
+║┣⪼ ꜰʀᴇᴇ: <code>81.40 GB</code>
 ║┣⪼ ᴄᴘᴜ: <code>{}%</code>
 ║┣⪼ ʀᴀᴍ: <code>{}%</code>
 ║╰━━━━━━━━━━━━━━━➣
